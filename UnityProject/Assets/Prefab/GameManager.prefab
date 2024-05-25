@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2466668237000810249
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6910551616317184045}
+  - component: {fileID: 3222397942258321170}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6910551616317184045
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2466668237000810249}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3222397942258321170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2466668237000810249}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5049cd02e408e444bdbe88e432f9246, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  NumberOfUnit: 5
+  teamBlueUnitPostion:
+    x: 10
+    y: 0
+    z: 0
+  teamRedUnitPostion:
+    x: 10
+    y: 0
+    z: 0
+  teamBlueUnitPrefab: {fileID: 8419636451076551613, guid: 0b50ca940947c744d97b21e91db7f9f6,
+    type: 3}
+  teamRedUnitPrefab: {fileID: 8419636451076551613, guid: 9cc04d625f71ba64bb520ab8870a50d3,
+    type: 3}
+  lineup1: {fileID: 6899911907298898369, guid: e3bc7289b58e96343a4efe8864c822c1, type: 3}
+  lineup2: {fileID: 6899911907298898369, guid: c2a58c6994339334fba15894930f34d0, type: 3}
+  lineup3: {fileID: 6899911907298898369, guid: e3bc7289b58e96343a4efe8864c822c1, type: 3}
+  lineup4: {fileID: 6899911907298898369, guid: c2a58c6994339334fba15894930f34d0, type: 3}
+  xGridCount: 3
+  zGridCount: 3
+  baseOffset: 0
+  xPadding: 2
+  zPadding: 2
+  gridPrefab: {fileID: 7907736581678228834, guid: 11e5ba89196bb3042bc3436323ec8ed1,
+    type: 3}

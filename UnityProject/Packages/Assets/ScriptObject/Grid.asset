@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69581232fc94fc74d8956b3960b0bfef, type: 3}
+  m_Name: Grid
+  m_EditorClassIdentifier: 
+  xGridCount: 3
+  zGridCount: 3
+  baseOffset: 0
+  xPadding: 2
+  zPadding: 2
+  gridPrefab: {fileID: 7907736581678228834, guid: 11e5ba89196bb3042bc3436323ec8ed1,
+    type: 3}
+  gridTypepp1: {fileID: 7907736581678228834, guid: 11e5ba89196bb3042bc3436323ec8ed1,
+    type: 3}
+  NumberOfUnit: 5
+  teamBlueUnitPostion: {x: 10, y: 0, z: 0}
+  teamRedUnitPostion: {x: 10, y: 0, z: 0}
+  teamBlueUnitPrefab: {fileID: 7907736581678228834, guid: 11e5ba89196bb3042bc3436323ec8ed1,
+    type: 3}
+  teamRedUnitPrefab: {fileID: 7907736581678228834, guid: 11e5ba89196bb3042bc3436323ec8ed1,
+    type: 3}
