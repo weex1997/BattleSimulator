@@ -26,4 +26,4 @@ The gameplay and architecture were built using the ECS pattern to promote modula
 
 ### Technical Documentation
 
-<a href="Documentation/Battle Simulator-wedad.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="Documentation/Battle Simulator-wedad.pdf" class="image fit"><img src="BS.png" alt=""></a>
