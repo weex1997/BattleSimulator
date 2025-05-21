@@ -2,7 +2,7 @@
 <div>
 <h3><img align="left" width="100" height="100" src="appstore.png"> <br/> Roomade
 </div>   
-<a href="https://testflight.apple.com/join/OkLcSDv9">Testflight</a>  <br/> <br/> </h3>   
+<a href="https://www.youtube.com/watch?v=E1-fTTuxCIU">Game Overview</a>  <br/> <br/> </h3>   
 </div>   
  
 ## Overveiw
