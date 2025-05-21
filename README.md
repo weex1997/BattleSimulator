@@ -21,7 +21,7 @@ This strategy game was developed for my Steer Elite Internship application. Each
 <br/>
 **Tech:** Unity Ecs, C#  
 
-> [!Installation Guide]
+> [!NOTE]
 > Unity Version: 6000.0.2f1
 > ECS Version: 1.2.1
 
