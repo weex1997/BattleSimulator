@@ -24,5 +24,4 @@ The gameplay and architecture were built using the ECS pattern to promote modula
 - ECS Version: 1.2.1
 ```
 
-### Technical Documentation
 <a href="Documentation/Battle Simulator-wedad.pdf">Technical Documentation</a>
