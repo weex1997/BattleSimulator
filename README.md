@@ -2,9 +2,11 @@
 <div>
 <h3><img align="left" width="400" height="220" src="BS.png"> <br/> Battle Simulator
 </div>   
+  
 [![Game Overview](https://img.shields.io/badge/Game%20Overview-YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=E1-fTTuxCIU)  
 [![How to create Lineups](https://img.shields.io/badge/How%20to%20create%20Lineups-YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=WN8-BFGJ8NA)  
 [![Technical Documentation](https://img.shields.io/badge/Technical%20Documentation-PDF-blue?logo=adobeacrobatreader&logoColor=white)](Documentation/Battle%20Simulator-wedad.pdf)
+
 </h3>   
 </div>   
 
