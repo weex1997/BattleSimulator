@@ -3,7 +3,9 @@
 <h3><img align="left" width="400" height="220" src="BS.png"> <br/> Battle Simulator
 </div>   
 <a href="https://www.youtube.com/watch?v=E1-fTTuxCIU">Game Overview</a> 
-  <br/> <a href="https://www.youtube.com/watch?v=WN8-BFGJ8NA">How to create Lineups</a><br/> </h3>   
+  <br/> <a href="https://www.youtube.com/watch?v=WN8-BFGJ8NA">How to create Lineups</a><br/> 
+<a href="Documentation/Battle Simulator-wedad.pdf">Technical Documentation</a><br/>
+</h3>   
 </div>   
 
 ## Overview
