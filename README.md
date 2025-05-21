@@ -4,11 +4,11 @@
   <img src="BS.png" alt="Battle Simulator Banner" width="400"/>
 </div>
 
-### 🎮 Game Overview  
-🔗 [Overview Video](https://www.youtube.com/watch?v=E1-fTTuxCIU)  
-🔗 [How to Create Lineups](https://www.youtube.com/watch?v=WN8-BFGJ8NA)
+### Game Overview  
+[Overview Video](https://www.youtube.com/watch?v=E1-fTTuxCIU)  
+[How to Create Lineups](https://www.youtube.com/watch?v=WN8-BFGJ8NA)
 <br/>
-🔗 <a href="Documentation/Battle Simulator-wedad.pdf">Technical Documentation</a>
+<a href="Documentation/Battle Simulator-wedad.pdf">Technical Documentation</a>
 
 
 ## Project Info
