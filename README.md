@@ -1,11 +1,47 @@
-# BattleSimulator
-Installation GUIDE
-Introduction
-The game is about two opposing teams - a blue team and a red team. The red team's lineup is randomly generated, while the blue team's
-lineup is chosen by the player to create the best possible lineup to defeat the red team.
-Technical Documentation
-Initial Setup
-Spawning: The team members will appear on a 3x3 grid determined by the team's lineup, you can add team lineup data by adding a new
-scriptable object. and the system will spawn the units depending on the data. for the prototype, I create 4 lineups.
-So, I create a scriptable object have a list of vector2 to store x and y for each unit then in baker script I store the x , y in DynamicBuffer
-as float2 to use it because ECS not support List , and DynamicBuffer works instead
+<!-- PROJECT LOGO -->
+<div>
+<h3><img align="left" width="100" height="100" src="appstore.png"> <br/> Roomade
+</div>   
+<a href="https://testflight.apple.com/join/OkLcSDv9">Testflight</a>  <br/> <br/> </h3>   
+</div>   
+ 
+## Overveiw
+This project was developed as part of my application to the Steer Elite Internship Program. It is a strategy-based game featuring two opposing teams: the Red Team and the Blue Team.
+
+The Red Team is procedurally generated each match, creating a new challenge every time. In response, the player is tasked with assembling the Blue Team by strategically selecting characters or units from a roster to form the most effective lineup possible to counter and defeat the Red Team.
+
+### Installation GUIDE
+Unity Version: 6000.0.2f1
+ECS Version: 1.2.1
+
+### Technologies & Tools
+[![Swift][Swift-img]][Swift-url] [![SwiftUI][SwiftUI-img]][SwiftUI-url] [![Firebase][Firebase-img]][Firebase-url]  [![Figma][Figma-img]][Figma-url]  [![GitHub][GitHub-img]][GitHub-url]
+
+## Success Criteria
+- Project is completed on time. ✅
+- Pay more attention to investigation process, by getting deeper and exploring new sectors such as User, Market, and Product Identity, each in a separate exploratory cycle.  ✅
+- Creating a complete, comprehensive design system for the product. ✅
+- Creating a full-functional app.  ✅
+- Using real data coming from the backend, such as server or open source API.. etc  ✅
+
+
+## Team
+#### Fourth Dimention
+<a href="https://www.linkedin.com/in/khulood-alhamed-73a837209/">Khulood Alhamed</a> - <a href="https://www.linkedin.com/in/sumayaalzahrani/">Sumaya Alzahrani</a> - <a href="https://www.linkedin.com/in/wedad-almehmadi-701476200/">Wedad Almehmadi</a> - <a href="https://www.linkedin.com/in/alruqihajar/">Hajar Alruqi</a> 
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[Swift-img]: https://img.shields.io/badge/-Swift-orange
+[Swift-url]: https://developer.apple.com/swift/
+
+[SwiftUI-img]: https://img.shields.io/badge/-SwiftUI-blue
+[SwiftUI-url]: https://developer.apple.com/xcode/swiftui/
+
+[Firebase-img]: https://img.shields.io/badge/-Firebase-yellow
+[Firebase-url]: https://firebase.google.com
+
+[Figma-img]: https://img.shields.io/badge/-Figma-blue
+[Figma-url]: https://www.figma.com/file/tOwavxZJyGBImzbSgo6fcM/Roomade?node-id=0%3A1&t=SiH0xR3Ug7foYJhO-1
+
+[GitHub-img]: https://img.shields.io/badge/-GitHub-lightgrey
+[GitHub-url]: https://github.com/weex1997/Roomade
