@@ -10,9 +10,11 @@ This project was developed as part of my application to the Steer Elite Internsh
 
 The Red Team is procedurally generated each match, creating a new challenge every time. In response, the player is tasked with assembling the Blue Team by strategically selecting characters or units from a roster to form the most effective lineup possible to counter and defeat the Red Team.
 
+The gameplay and architecture were built using the ECS pattern to promote modularity, scalability, and performance — aligning with modern game development standards and Steer’s expectations.
+
 ### Installation GUIDE
-Unity Version: 6000.0.2f1
-ECS Version: 1.2.1
+- Unity Version: 6000.0.2f1
+- ECS Version: 1.2.1
 
 ### Technologies & Tools
 [![Swift][Swift-img]][Swift-url] [![SwiftUI][SwiftUI-img]][SwiftUI-url] [![Firebase][Firebase-img]][Firebase-url]  [![Figma][Figma-img]][Figma-url]  [![GitHub][GitHub-img]][GitHub-url]
