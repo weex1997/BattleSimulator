@@ -1,50 +1,45 @@
-# 🎮 Game Development Portfolio
+# 🛡️ Battle Simulator
 
-Welcome to my game development portfolio! I'm a game programmer with experience in Unity, C#, PlayFab, and more. Below is a selection of my projects, including personal, academic, and professional work.
+<div align="center">
+  <img src="BS.png" alt="Battle Simulator Banner" width="600"/>
+</div>
 
----
-
-## 🕹️ Featured Projects
-
-### 🚀 ChronoShift
-**Role:** Solo Developer  
-**Duration:** Jan 2024 – Mar 2024  
-**Tech:** Unity, C#, PlayFab  
-- A time-based puzzle platformer focused on causality and time loops  
-- Implemented cloud saves and analytics using PlayFab  
-- Featured in the DigiPen Showcase and played by 500+ users  
-[🔗 Play on Itch.io](https://your-link-here.com) | [💻 Source Code](https://github.com/your-repo)
+### 🎮 Game Overview  
+🔗 [Watch Overview Video](https://www.youtube.com/watch?v=E1-fTTuxCIU)  
+🔗 [How to Create Lineups](https://www.youtube.com/watch?v=WN8-BFGJ8NA)
 
 ---
 
-### 🎯 SkillShot Arena
-**Role:** Gameplay Programmer  
-**Duration:** Jul 2023 – Sep 2023  
-**Tech:** Unity, Photon Fusion, Shader Graph  
-- Online multiplayer FPS with precision-based mechanics  
-- Designed and implemented player movement, weapons, and networking logic  
-- Optimized hit detection with client prediction and lag compensation  
-[🔗 Gameplay Demo](https://your-link-here.com)
+## 📌 Project Info
+
+| Role            | Game Programmer |
+|-----------------|-----------------|
+| Team Size       | 1               |
+| Time Frame      | 2 Weeks         |
+| Tools & Tech    | Unity ECS       |
 
 ---
 
-### 🧠 BrainBuilder (Mobile)
-**Role:** Lead Developer  
-**Duration:** Feb 2023 – May 2023  
-**Tech:** Unity, Firebase, C#  
-- Mobile brain training app with minigames to improve focus and memory  
-- Integrated Firebase for authentication and user progress tracking  
-- Released on Android with over 1,000 downloads  
-[📱 Google Play](https://your-link-here.com)
+## 🧠 Overview
+
+**Battle Simulator** was developed as part of my application to the **Steer Elite Internship Program**.  
+It is a strategy-based simulation game featuring two opposing factions:
+
+- **Red Team**: Procedurally generated each match, creating unique and unpredictable challenges.
+- **Blue Team**: Assembled by the player using a roster of available units to strategically counter the Red Team.
+
+The game is designed with **Unity’s Entity Component System (ECS)** to promote:
+
+- 🧩 Modularity  
+- 📈 Scalability  
+- 🚀 High Performance
+
+These principles align with modern game architecture standards and Steer’s technical expectations.
 
 ---
 
-## 📬 Contact
+## ⚙️ Installation Guide
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- 🌐 [Portfolio Website](https://yourwebsite.com)
-- 📧 Email: your.email@example.com
-
----
-
-Thanks for checking out my work!
+```plaintext
+Unity Version: 6000.0.2f1
+ECS Version: 1.2.1
