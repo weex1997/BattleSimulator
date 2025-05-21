@@ -16,8 +16,7 @@ Project Info
 Role: Game Programmer 
 Team Size: 1 
 Time frame: 2 week
-Engine: Unity Version: 6000.0.2f1
-Tools: ECS Version: 1.2.1
+Tools/tech: Unity ECS
 ```
 
 ## Overveiw
