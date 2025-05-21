@@ -7,7 +7,7 @@
 <a href="Documentation/Battle Simulator-wedad.pdf">Technical Documentation</a><br/>
 </h3>   
 </div>   
-
+<br/>
 ## Overview
 This strategy game was developed for my Steer Elite Internship application. Each match features a procedurally generated Red Team, challenging the player to build a countering Blue Team from a roster of units. Built with the ECS pattern, the game emphasizes modularity, scalability, and performance to meet modern development standards.
 
