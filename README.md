@@ -25,3 +25,5 @@ The gameplay and architecture were built using the ECS pattern to promote modula
 ```
 
 ### Technical Documentation
+
+<a href="/pdfs/ProjMarr_slides.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
