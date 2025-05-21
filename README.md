@@ -1,14 +1,15 @@
-# Battle Simulator
-
-<div align="left">
-  <img src="BS.png" alt="Battle Simulator Banner" width="400"/>
-</div>
-
-## Game Overview  
-[Overview Video](https://www.youtube.com/watch?v=E1-fTTuxCIU)  
-[How to Create Lineups](https://www.youtube.com/watch?v=WN8-BFGJ8NA)
+<!-- PROJECT LOGO -->
+<div>
+<h3><img align="left" width="400" height="220" src="BS.png"> <br/> Battle Simulator
+</div>   
+<a href="https://www.youtube.com/watch?v=E1-fTTuxCIU">Game Overview</a> 
+  <br/> <a href="https://www.youtube.com/watch?v=WN8-BFGJ8NA">How to create Lineups</a><br/> </h3>   
+  <br/>
 <br/>
-<a href="Documentation/Battle Simulator-wedad.pdf">Technical Documentation</a>
+  <br/>
+<br/>
+
+</div>   
 
 
 ## Project Info
