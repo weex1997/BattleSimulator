@@ -16,21 +16,6 @@ The gameplay and architecture were built using the ECS pattern to promote modula
 - Unity Version: 6000.0.2f1
 - ECS Version: 1.2.1
 
-### Technologies & Tools
-[![Swift][Swift-img]][Swift-url] [![SwiftUI][SwiftUI-img]][SwiftUI-url] [![Firebase][Firebase-img]][Firebase-url]  [![Figma][Figma-img]][Figma-url]  [![GitHub][GitHub-img]][GitHub-url]
-
-## Success Criteria
-- Project is completed on time. ✅
-- Pay more attention to investigation process, by getting deeper and exploring new sectors such as User, Market, and Product Identity, each in a separate exploratory cycle.  ✅
-- Creating a complete, comprehensive design system for the product. ✅
-- Creating a full-functional app.  ✅
-- Using real data coming from the backend, such as server or open source API.. etc  ✅
-
-
-## Team
-#### Fourth Dimention
-<a href="https://www.linkedin.com/in/khulood-alhamed-73a837209/">Khulood Alhamed</a> - <a href="https://www.linkedin.com/in/sumayaalzahrani/">Sumaya Alzahrani</a> - <a href="https://www.linkedin.com/in/wedad-almehmadi-701476200/">Wedad Almehmadi</a> - <a href="https://www.linkedin.com/in/alruqihajar/">Hajar Alruqi</a> 
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [Swift-img]: https://img.shields.io/badge/-Swift-orange
