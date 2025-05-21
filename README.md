@@ -7,7 +7,8 @@
 ### 🎮 Game Overview  
 🔗 [Watch Overview Video](https://www.youtube.com/watch?v=E1-fTTuxCIU)  
 🔗 [How to Create Lineups](https://www.youtube.com/watch?v=WN8-BFGJ8NA)
-🔗 [Technical Documentation](<a href="Documentation/Battle Simulator-wedad.pdf">Technical Documentation</a>)
+<br/>
+🔗 <a href="Documentation/Battle Simulator-wedad.pdf">Technical Documentation</a>
 
 
 ## 📌 Project Info
