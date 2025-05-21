@@ -1,45 +1,28 @@
 # 🛡️ Battle Simulator
 
-<div align="center">
-  <img src="BS.png" alt="Battle Simulator Banner" width="600"/>
+<div align="left">
+  <img src="BS.png" alt="Battle Simulator Banner" width="400"/>
 </div>
 
 ### 🎮 Game Overview  
 🔗 [Watch Overview Video](https://www.youtube.com/watch?v=E1-fTTuxCIU)  
 🔗 [How to Create Lineups](https://www.youtube.com/watch?v=WN8-BFGJ8NA)
+🔗 [Technical Documentation](<a href="Documentation/Battle Simulator-wedad.pdf">Technical Documentation</a>)
 
----
 
 ## 📌 Project Info
 
-| Role            | Game Programmer |
-|-----------------|-----------------|
-| Team Size       | 1               |
-| Time Frame      | 2 Weeks         |
-| Tools & Tech    | Unity ECS       |
-
----
+**Role:** Lead Developer  
+**Duration:** Feb 2023 – May 2023  
+**Tech:** Unity, Firebase, C#  
 
 ## 🧠 Overview
-
-**Battle Simulator** was developed as part of my application to the **Steer Elite Internship Program**.  
-It is a strategy-based simulation game featuring two opposing factions:
-
-- **Red Team**: Procedurally generated each match, creating unique and unpredictable challenges.
-- **Blue Team**: Assembled by the player using a roster of available units to strategically counter the Red Team.
-
-The game is designed with **Unity’s Entity Component System (ECS)** to promote:
-
-- 🧩 Modularity  
-- 📈 Scalability  
-- 🚀 High Performance
-
-These principles align with modern game architecture standards and Steer’s technical expectations.
-
----
+This strategy game was developed for my Steer Elite Internship application. Each match features a procedurally generated Red Team, challenging the player to build a countering Blue Team from a roster of units. Built with the ECS pattern, the game emphasizes modularity, scalability, and performance to meet modern development standards.
 
 ## ⚙️ Installation Guide
 
 ```plaintext
 Unity Version: 6000.0.2f1
 ECS Version: 1.2.1
+
+
