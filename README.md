@@ -6,7 +6,7 @@
   <br/> <a href="https://www.youtube.com/watch?v=WN8-BFGJ8NA">How to create Lineups</a><br/> </h3>   
 </div>   
 
- 
+ <div>
 ## Overveiw
 This project was developed as part of my application to the Steer Elite Internship Program. It is a strategy-based game featuring two opposing teams: the Red Team and the Blue Team.
 
@@ -17,4 +17,4 @@ The gameplay and architecture were built using the ECS pattern to promote modula
 ### Installation GUIDE
 - Unity Version: 6000.0.2f1
 - ECS Version: 1.2.1
-
+</div>  
