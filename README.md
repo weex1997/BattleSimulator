@@ -11,22 +11,18 @@
 
 </div>   
 
+## Overview
+This strategy game was developed for my Steer Elite Internship application. Each match features a procedurally generated Red Team, challenging the player to build a countering Blue Team from a roster of units. Built with the ECS pattern, the game emphasizes modularity, scalability, and performance to meet modern development standards.
 
 ## Project Info
-
 **Role:** Solo Developer 
 <br/>
 **Duration:** 2 week
 <br/>
 **Tech:** Unity Ecs, C#  
 
-## Overview
-This strategy game was developed for my Steer Elite Internship application. Each match features a procedurally generated Red Team, challenging the player to build a countering Blue Team from a roster of units. Built with the ECS pattern, the game emphasizes modularity, scalability, and performance to meet modern development standards.
-
-## Installation Guide
-
-```plaintext
-Unity Version: 6000.0.2f1
-ECS Version: 1.2.1
+> [!Installation Guide]
+> Unity Version: 6000.0.2f1
+> ECS Version: 1.2.1
 
 
