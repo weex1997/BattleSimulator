@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <div>
-<h3><img align="left" width="100" height="100" src="appstore.png"> <br/> Battle Simulator
+<h3><img align="left" width="100" height="100" src="BS.png"> <br/> Battle Simulator
 </div>   
 <a href="https://www.youtube.com/watch?v=E1-fTTuxCIU">Game Overview</a> 
 <a href="https://www.youtube.com/watch?v=WN8-BFGJ8NA">How to create Lineups</a>  <br/> <br/> </h3>   
