@@ -25,4 +25,4 @@ The gameplay and architecture were built using the ECS pattern to promote modula
 ```
 
 ### Technical Documentation
-<a href="https://www.youtube.com/watch?v=WN8-BFGJ8NA">How to create Lineups</a>
+<a href="https://www.youtube.com/watch?v=WN8-BFGJ8NA">Technical Documentation</a>
