@@ -13,9 +13,9 @@
 
 ## 📌 Project Info
 
-**Role:** Lead Developer  
-**Duration:** Feb 2023 – May 2023  
-**Tech:** Unity, Firebase, C#  
+**Role:** Solo Developer 
+**Duration:** 2 week
+**Tech:** Unity Ecs, C#  
 
 ## 🧠 Overview
 This strategy game was developed for my Steer Elite Internship application. Each match features a procedurally generated Red Team, challenging the player to build a countering Blue Team from a roster of units. Built with the ECS pattern, the game emphasizes modularity, scalability, and performance to meet modern development standards.
