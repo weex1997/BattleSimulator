@@ -1,35 +1,45 @@
-<!-- PROJECT LOGO -->
-<div>
-<h3><img align="left" width="400" height="220" src="BS.png"> <br/> Battle Simulator
-</div>   
-<a href="https://www.youtube.com/watch?v=E1-fTTuxCIU">Game Overview</a> 
-  <br/> <a href="https://www.youtube.com/watch?v=WN8-BFGJ8NA">How to create Lineups</a><br/> </h3>   
-  <br/>
-<br/>
-  <br/>
-<br/>
+# 🛡️ Battle Simulator
 
-</div>   
+<div align="center">
+  <img src="BS.png" alt="Battle Simulator Banner" width="600"/>
+</div>
 
-```
-Project Info 
-Role: Game Programmer 
-Team Size: 1 
-Time frame: 2 week
-Tools/tech: Unity ECS
-```
+### 🎮 Game Overview  
+🔗 [Watch Overview Video](https://www.youtube.com/watch?v=E1-fTTuxCIU)  
+🔗 [How to Create Lineups](https://www.youtube.com/watch?v=WN8-BFGJ8NA)
 
-## Overveiw
-This project was developed as part of my application to the Steer Elite Internship Program. It is a strategy-based game featuring two opposing teams: the Red Team and the Blue Team.
+---
 
-The Red Team is procedurally generated each match, creating a new challenge every time. In response, the player is tasked with assembling the Blue Team by strategically selecting characters or units from a roster to form the most effective lineup possible to counter and defeat the Red Team.
+## 📌 Project Info
 
-The gameplay and architecture were built using the ECS pattern to promote modularity, scalability, and performance, aligning with modern game development standards and Steer’s expectations.
+| Role            | Game Programmer |
+|-----------------|-----------------|
+| Team Size       | 1               |
+| Time Frame      | 2 Weeks         |
+| Tools & Tech    | Unity ECS       |
 
-### Installation GUIDE
-```
-- Unity Version: 6000.0.2f1
-- ECS Version: 1.2.1
-```
+---
 
-<a href="Documentation/Battle Simulator-wedad.pdf">Technical Documentation</a>
+## 🧠 Overview
+
+**Battle Simulator** was developed as part of my application to the **Steer Elite Internship Program**.  
+It is a strategy-based simulation game featuring two opposing factions:
+
+- **Red Team**: Procedurally generated each match, creating unique and unpredictable challenges.
+- **Blue Team**: Assembled by the player using a roster of available units to strategically counter the Red Team.
+
+The game is designed with **Unity’s Entity Component System (ECS)** to promote:
+
+- 🧩 Modularity  
+- 📈 Scalability  
+- 🚀 High Performance
+
+These principles align with modern game architecture standards and Steer’s technical expectations.
+
+---
+
+## ⚙️ Installation Guide
+
+```plaintext
+Unity Version: 6000.0.2f1
+ECS Version: 1.2.1
